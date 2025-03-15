@@ -23,7 +23,7 @@ Understanding AI principles, terminology, and capabilities is crucial for master
 | AI Ethics, Risks & Challenges | ✅ | ❌ |
 | Responsible AI Guidelines | ✅ | ✅ |
 
-📝 **Key Insight**: Microsoft provides a broader understanding of AI governance, while Udemy focuses more on practical AI development.
+**Key Insight**: Microsoft provides a broader understanding of AI governance, while Udemy focuses more on practical AI development.
 
 ---
 
@@ -40,7 +40,7 @@ A core component of AI solutions is understanding how machines learn from data.
 | Automated ML (AutoML) | ✅ | ✅ |
 | Responsible ML Practices | ✅ | ❌ |
 
-🚀 **Learning Strategy**: Utilize Microsoft’s Azure ML Studio for interactive model development.
+**Learning Strategy**: Utilize Microsoft’s Azure ML Studio for interactive model development.
 
 ---
 
@@ -55,7 +55,7 @@ Microsoft Azure provides multiple AI services for diverse business applications.
 | Authentication & Security in AI Services | ✅ | ❌ |
 | Using AI for Business Applications | ✅ | ✅ |
 
-💡 **Best Practice**: Follow Microsoft’s step-by-step exercises to deploy AI services securely.
+**Best Practice**: Follow Microsoft’s step-by-step exercises to deploy AI services securely.
 
 ---
 
@@ -70,7 +70,7 @@ Computer Vision enables machines to analyze and interpret images.
 | Optical Character Recognition (OCR) | ✅ | ✅ |
 | Face Recognition & Analysis | ✅ | ✅ |
 
-🎯 **Practical Task**: Implement OCR using Azure Vision API and compare results with OpenCV.
+**Practical Task**: Implement OCR using Azure Vision API and compare results with OpenCV.
 
 ---
 
@@ -85,7 +85,7 @@ AI can process and analyze human language for various applications.
 | Language Translation & Sentiment Analysis | ✅ | ✅ |
 | Named Entity Recognition (NER) | ✅ | ❌ |
 
-🔍 **Tip**: Experiment with Azure’s Text Analytics API for hands-on learning.
+**Tip**: Experiment with Azure’s Text Analytics API for hands-on learning.
 
 ---
 
@@ -99,7 +99,7 @@ Extracting meaningful insights from documents is essential for business automati
 | Automating Data Extraction | ✅ | ❌ |
 | Search & Cognitive Search Integration | ✅ | ❌ |
 
-🧐 **Advanced Learning**: Microsoft’s AI Search service allows indexing of structured and unstructured data.
+**Advanced Learning**: Microsoft’s AI Search service allows indexing of structured and unstructured data.
 
 ---
 
@@ -114,7 +114,7 @@ Generative AI is revolutionizing AI-powered applications with models like GPT.
 | AI Content Generation & Automation | ✅ | ✅ |
 | Ethical AI & Model Governance | ✅ | ❌ |
 
-🤖 **Hands-on Task**: Develop an AI chatbot using Azure OpenAI Service and compare with Hugging Face models.
+**Hands-on Task**: Develop an AI chatbot using Azure OpenAI Service and compare with Hugging Face models.
 
 ---
 
@@ -128,22 +128,20 @@ AI models must be developed ethically and comply with regulations.
 | AI Risk Management & Compliance | ✅ | ❌ |
 | Case Studies on Responsible AI | ✅ | ❌ |
 
-⚖ **Industry Relevance**: Responsible AI is a major focus in enterprise AI solutions.
+**Industry Relevance**: Responsible AI is a major focus in enterprise AI solutions.
 
 ---
 
 ## **Final Recommendations**
 
-📌 **Best for Hands-on Learning:** Udemy in28Minutes offers interactive exercises and practical demonstrations.
+**Best for Hands-on Learning:** Udemy in28Minutes offers interactive exercises and practical demonstrations.
 
-📌 **Best for Exam Readiness:** Microsoft’s Learning Path ensures full AI-900 certification coverage, including security and governance.
+**Best for Exam Readiness:** Microsoft’s Learning Path ensures full AI-900 certification coverage, including security and governance.
 
-🔹 **Optimal Study Plan:**
+**Optimal Study Plan:**
 - Use **Udemy** for real-world application practice.
 - Follow **Microsoft’s Learning Path** for conceptual depth.
 - Experiment with **Azure’s free sandbox environments**.
 - Focus on **AI security & governance**, which is emphasized in AI-900.
 
-🛠 **Pro Tip**: Engage in Microsoft Learn’s AI labs, quizzes, and challenges for a well-rounded preparation.
-
-
+**Pro Tip**: Engage in Microsoft Learn’s AI labs, quizzes, and challenges for a well-rounded preparation.
